@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm GUNDLURU SAKETH</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Engineer from India</h3>
 
-- 🌱 I’m currently learning **DataScience,SQL,Python,ML,etc.,**
+- 🌱 I’m currently learning **Power Bi,Tableau,Advance Excel,Snowflake,ETL,SQL,Python etc.,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sakethgundluru](https://github.com/sakethgundluru)
 
